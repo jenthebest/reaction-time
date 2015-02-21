@@ -1,0 +1,14 @@
+#box {
+	height: 100px;
+	width: 100px;
+	display: none;
+	position: relative;
+}
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+h2, h3 {
+	text-align: center;
+}
